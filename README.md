@@ -9,9 +9,11 @@ Welcome to VOS, your gateway to hassle-free virtualization and top-notch perform
 
 [Download VOS](https://github.com/Santas7/VOS/blob/main/DOWNLOAD.md)
 
-### Our Forum
+### Web site and Our Forum
 
 [go to forum](https://vos-virtual-machine.actieforum.com/t2-topic#2)
+
+[go to web site](https://vos.framer.website/)
 
 ### What Sets Us Apart?
 
@@ -84,5 +86,4 @@ Step-3: Select the desired virtual machine and click the Start button.
 
 ![Снимок экрана 2023-11-11 в 5 51 54 PM](https://github.com/Santas7/VOS/assets/86359412/a5521141-8287-463d-8294-5bbb75785b70)
 
-### Web-Site
-[our web site](https://vos.framer.website/)
+
