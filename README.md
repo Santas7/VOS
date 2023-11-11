@@ -5,6 +5,9 @@ Welcome to VOS, your gateway to hassle-free virtualization and top-notch perform
 
 **VOS** - Software for free creation of virtual machines for any OS
 
+### Download Free
+
+[Download VOS](https://github.com/Santas7/VOS/blob/main/DOWNLOAD.md)
 
 ### What Sets Us Apart?
 
