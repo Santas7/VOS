@@ -9,6 +9,10 @@ Welcome to VOS, your gateway to hassle-free virtualization and top-notch perform
 
 [Download VOS](https://github.com/Santas7/VOS/blob/main/DOWNLOAD.md)
 
+### Our Forum
+
+[go to forum](https://vos-virtual-machine.actieforum.com/t2-topic#2)
+
 ### What Sets Us Apart?
 
     1. Easy Installation, High Speed
