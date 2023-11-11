@@ -65,6 +65,17 @@ Step-5: Next, an additional window will open (the window of the created virtual 
 
 Step-6: If you did everything correctly, the virtual machine should have been successfully created on your computer.
 
+### How to launch an already created virtual machine?
+
+Step-1: Launch VOS App
+
+Step-2: In the main menu, select the Open Exist section.
+
+![Снимок экрана 2023-11-11 в 5 50 58 PM](https://github.com/Santas7/VOS/assets/86359412/17c556e9-0164-49de-ac81-ccedfa4b21ca)
+
+Step-3: Select the desired virtual machine and click the Start button.
+
+![Снимок экрана 2023-11-11 в 5 51 54 PM](https://github.com/Santas7/VOS/assets/86359412/a5521141-8287-463d-8294-5bbb75785b70)
 
 ### Web-Site
 [our web site](https://vos.framer.website/)
