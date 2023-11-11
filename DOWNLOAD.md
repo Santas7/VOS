@@ -18,6 +18,7 @@ The main working startup file is this VOS file (located in the VOS folder):
 
 [VOS v1.1 - MAC OS Intel-chip](https://drive.google.com/file/d/1MkJ0qKbJd2vAcx-78NW4b5StePrWkX3o/view?usp=sharing)
 
+
 ## Version 1.0 
 This is currently the main version of VOS.
 VOS is currently only available for the MAC OS Intel-chip platform.
