@@ -42,5 +42,29 @@ Welcome to VOS, your gateway to hassle-free virtualization and top-notch perform
     Enjoy a user-friendly design that simplifies the virtual machine creation process.
     Benefit from high-speed operations, enhancing your overall workflow comfort.
 
+### How to create a virtual machine on Windows?
+
+Step-1: Launch VOS App
+
+Step-2: In the main menu, select the Install Windows section.
+
+![Снимок экрана 2023-11-11 в 5 43 04 PM](https://github.com/Santas7/VOS/assets/86359412/2817d5ed-9ff8-44f6-be04-6d312202f7bf)
+
+Step-3: Select the Windows OS type (or upload your .iso) and click the download button.
+
+![Снимок экрана 2023-11-11 в 5 45 04 PM](https://github.com/Santas7/VOS/assets/86359412/664f2e68-8276-4b62-935d-d1be3bc5730e)
+
+![Снимок экрана 2023-11-11 в 4 25 00 PM](https://github.com/Santas7/VOS/assets/86359412/31b81210-d784-4e29-9526-8b969fed2df8)
+
+
+Step-4: Select options and click install.
+
+![Снимок экрана 2023-11-11 в 5 46 38 PM](https://github.com/Santas7/VOS/assets/86359412/8763b315-0dce-4fec-a72c-4d71a4cd5ff6)
+
+Step-5: Next, an additional window will open (the window of the created virtual machine). Follow the onscreen instructions to complete the OS installation.
+
+Step-6: If you did everything correctly, the virtual machine should have been successfully created on your computer.
+
+
 ### Web-Site
 [our web site](https://vos.framer.website/)
