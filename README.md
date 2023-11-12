@@ -86,4 +86,13 @@ Step-3: Select the desired virtual machine and click the Start button.
 
 ![Снимок экрана 2023-11-11 в 5 51 54 PM](https://github.com/Santas7/VOS/assets/86359412/a5521141-8287-463d-8294-5bbb75785b70)
 
+### How to delete an already created virtual machine?
+
+Step-1: Launch VOS App
+
+Step-2: In the main menu, select the Open Exist section.
+
+Step-3: Select the desired virtual machine from the list and click the remove button.
+
+![Снимок экрана 2023-11-12 в 11 24 21 AM](https://github.com/Santas7/VOS/assets/86359412/e1571798-9406-456c-95c0-728ce8fba7d0)
 
