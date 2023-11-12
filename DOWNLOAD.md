@@ -1,4 +1,17 @@
-## Version 1.1 BETA
+## Version 1.1.1 BETA
+Bugs with application installation were fixed, a pkg installation package was created, and the size of pkg was reduced three times.
+
+### System requirements:
+    CPU: Intel-core
+    RAM: minimum 512MB
+    OS: Any MAC OS
+    GPU: -
+
+
+### Download-links
+[VOS v1.1.1 - MAC OS Intel-chip](https://www.dropbox.com/scl/fi/y41qay5aamkqesmocdpgn/vos1-1-1-macos-intel-chip.zip?rlkey=psimz552ifj8jzs8gwepnw0l2&dl=0)
+
+## Version 1.1
 Bugs have been fixed, a new function for deleting a virtual machine has been added, and the ability to install the OS through your own ISO system image has also been added.
 
 ### System requirements:
